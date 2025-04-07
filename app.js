@@ -5,13 +5,13 @@ class Calculator {
   add(a, b) {
     // TODO: Fix this function
     // The test expects: add(2, 3) to return 5
-    return a - b; // This is wrong!
+    return a + b; // This is wrong!
   }
 
   multiply(a, b) {
     // TODO: Fix this function
     // The test expects: multiply(2, 3) to return 6
-    return a + b; // This is wrong!
+    return a * b; // This is wrong!
   }
 
   divide(a, b) {
